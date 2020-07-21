@@ -1,2 +1,3 @@
-# meus_certificados
-repositório para mostrar meus certificados que adiquiri durante meus estudos
+### meus certificados
+___
+<!-- ![python3](Pyhton_certificate.jpg) -->
